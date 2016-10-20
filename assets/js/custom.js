@@ -49,7 +49,7 @@
 				navbar.addClass('navbar-color');
 			}
 			else {
-				navbar.removeClass('navbar-color');
+				navbar.addClass('navbar-color');
 			}
 		});
 
